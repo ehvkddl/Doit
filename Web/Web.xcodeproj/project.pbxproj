@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EA1AAC5927BD50A40017BD71 /* htmlView.html in Resources */ = {isa = PBXBuildFile; fileRef = EA1AAC5827BD50A40017BD71 /* htmlView.html */; };
 		EAEC9B2727B591690024FDEA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAEC9B2627B591690024FDEA /* AppDelegate.swift */; };
 		EAEC9B2927B591690024FDEA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAEC9B2827B591690024FDEA /* SceneDelegate.swift */; };
 		EAEC9B2B27B591690024FDEA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAEC9B2A27B591690024FDEA /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EA1AAC5827BD50A40017BD71 /* htmlView.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = htmlView.html; sourceTree = "<group>"; };
 		EAEC9B2327B591680024FDEA /* Web.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Web.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EAEC9B2627B591690024FDEA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EAEC9B2827B591690024FDEA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				EAEC9B2627B591690024FDEA /* AppDelegate.swift */,
 				EAEC9B2827B591690024FDEA /* SceneDelegate.swift */,
 				EAEC9B2A27B591690024FDEA /* ViewController.swift */,
+				EA1AAC5827BD50A40017BD71 /* htmlView.html */,
 				EAEC9B2C27B591690024FDEA /* Main.storyboard */,
 				EAEC9B2F27B591690024FDEA /* Assets.xcassets */,
 				EAEC9B3127B591690024FDEA /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EA1AAC5927BD50A40017BD71 /* htmlView.html in Resources */,
 				EAEC9B3327B591690024FDEA /* LaunchScreen.storyboard in Resources */,
 				EAEC9B3027B591690024FDEA /* Assets.xcassets in Resources */,
 				EAEC9B2E27B591690024FDEA /* Main.storyboard in Resources */,
